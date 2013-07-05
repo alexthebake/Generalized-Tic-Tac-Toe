@@ -1,7 +1,7 @@
 Generalized Tic-Tac-Toe
 =======================
 
-This program lets you play generalized tic-tac-toe with a computer player.
+This program lets you play generalized tic-tac-toe with a computer player that implements the minimax strategy using alpha-beta-pruning.
 By "generalized" I mean that you can play more than just the typical formulation of tic-tac-toe.
 That is, you could play 4x4, 5x5, or even some sort of 3D model of tic-tac-toe (with the proper game file).
 
